@@ -12,4 +12,4 @@
 
 ## Instructions
 
-TODO: these are missing
+boil pasta, chop vegetables, fry onions and mushrooms. Mix and shred cheese
